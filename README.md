@@ -31,3 +31,9 @@ user's UID: `size * 0.05506` becomes `size * 0.05` + the UID.
 - Abusez: Deobfuscating/Recovering
 - Mega: Deobfuscating/Recovering
 - Chef: Making Raven B4
+
+
+## This isnt made by me
+
+- I added this if something happenned to original repo
+- https://codeberg.org/abusez/OpenB4
